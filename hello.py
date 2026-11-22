@@ -1,0 +1,8 @@
+print("welcome to gitt")
+
+a=10
+b=20
+
+sum=a+b
+
+print("Addition is:",sum)
